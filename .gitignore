@@ -1,0 +1,7 @@
+out/
+.idea/
+company/
+*.class
+*.iml
+*.ipr
+*.iws
